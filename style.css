@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: lightgray;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.main {
+    max-width: 360px;
+    margin: 0 auto;
+}
+
+.c {
+    background-color: white;
+    padding: 18px;
+    border-radius: 3.5%;
+}
+
+.c img {
+    width: 100%;
+    border-radius: 3.5%;
+}
